@@ -1,0 +1,27 @@
+.img-gif {
+    margin: 10px;
+    height: 150px;
+}
+.search-input {
+    padding: 10px;
+    width: 200px;
+    border: none;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    margin-right: 20px;
+}
+.button-input {
+    padding: 10px;
+    border-radius: 4px;
+    color: #f5f5f5;
+    border: 0;
+    background-color: #00B0F2;
+}
+.container-searchbox { 
+    width: 100%;
+    text-align: center;
+}
+.container-searchbox form {
+    width: 100%;
+    text-align: center;
+}

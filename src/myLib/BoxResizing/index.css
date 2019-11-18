@@ -1,0 +1,15 @@
+.box {
+    width: 350px;
+    padding: 20px;
+    background-color: #00B0F2;
+    color: white;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+
+.box:hover {
+    cursor: pointer;
+}
