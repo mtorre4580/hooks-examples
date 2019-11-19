@@ -127,6 +127,16 @@ function App() {
             Alto: {height}, Ancho {width}{" "}
           </p>
         </div>
+        <div className="hook-explanation">
+          <h2>Hooks de 3eros</h2>
+          <p>Estos hooks son ejemplos de algunas funcionalidades que siempre hacemos en un proyecto de React</p>
+          <ul>
+            <li><a href="https://www.npmjs.com/package/@rehooks/local-storage" target="_blank" rel="noopener noreferrer">@rehooks/local-storage</a>: Hook para sincronizar el local-storage</li>
+            <li><a href="https://www.npmjs.com/package/react-use-form-state" target="_blank" rel="noopener noreferrer">react-use-form-state</a>: Hook para manejar los forms</li>
+            <li><a href="https://www.npmjs.com/package/react-hanger" target="_blank" rel="noopener noreferrer">useArray</a>: Hook para manejar la manipulación de un array</li>
+          </ul>
+          <p>Pueden chusmear este repo <a href="https://github.com/rehooks/awesome-react-hooks">awesome-react-hooks</a></p>
+        </div>
       </header>
     </div>
   );
